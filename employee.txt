@@ -1,0 +1,154 @@
+ID: 55
+Name: jhgjhkj
+Age: 76
+Contact number (+880...): 675687890
+Email: dfdf@gmail
+Joining date (dd-mm-yyyy): 65-78-99
+Position: dgfghfhg
+Base salary: 0.00
+Attendance (out of 30): 6422212
+Bonus: 301063767961601360000000000000000.00
+Deduction: 0.00
+-------------------------
+ID: 45
+Name: Sharmin
+Age: 45
+Contact number (+880...): 343546
+Email: dgkdfjgf
+Joining date (dd-mm-yyyy): 45
+Position: jldkjgkdf
+Base salary: 0.00
+Attendance (out of 30): 6422212
+Bonus: 301063767961601360000000000000000.00
+Deduction: 0.00
+-------------------------
+ID: 55
+Name: klv;fdlkg
+Age: 76
+Contact number (+880...): gkjdf;l
+Email: kgjfdjg
+Joining date (dd-mm-yyyy): skjgjdf;l'
+Position: dkgjd;fl
+Base salary: 0.00
+Attendance (out of 30): 6422212
+Bonus: 301063767961601360000000000000000.00
+Deduction: 0.00
+-------------------------
+ID: 1477285014
+Name: dd
+Age: 1
+Contact number (+880...): aa
+Email: dd
+Joining date (dd-mm-yyyy): aa
+Position: dd
+Base salary: 0.00
+Attendance (out of 30): 6422212
+Bonus: 301063767961601360000000000000000.00
+Deduction: 0.00
+-------------------------
+ID: 1477285014
+Name: aa
+Age: 1
+Contact number (+880...): aa
+Email: dd
+Joining date (dd-mm-yyyy): aa
+Position: dd
+Base salary: 0.00
+Attendance (out of 30): 6422212
+Bonus: 301063767961601360000000000000000.00
+Deduction: 0.00
+-------------------------
+ID: 20
+Name: dfjdkjg
+Age: 0
+Contact number (+880...): sdgjklfdjgl
+Email: dsgjklfdjg
+Joining date (dd-mm-yyyy): sglkfdjl
+Position: sgkljdflk
+Base salary: 301063767961601360000000000000000.00
+Attendance (out of 30): 6422476
+Bonus: 301063767961601360000000000000000.00
+Deduction: 0.00
+-------------------------
+ID: 2
+Name: 5
+Age: 7
+Contact number (+880...): 8
+Email: 6
+Joining date (dd-mm-yyyy): 7
+Position: 8
+Base salary: 8.00
+Attendance (out of 30): 77
+Bonus: 77.00
+Deduction: 77.00
+-------------------------
+ID: 5
+Name: 7
+Age: 6
+Contact number (+880...): 4
+Email: 7
+Joining date (dd-mm-yyyy): 8
+Position: 8
+Base salary: 5.00
+Attendance (out of 30): 4
+Bonus: 3.00
+Deduction: 5.00
+-------------------------
+ID: 7
+Name: 9
+Age: 8
+Contact number (+880...): 7
+Email: 6
+Joining date (dd-mm-yyyy): 5
+Position: t
+Base salary: 6.00
+Attendance (out of 30): 7
+Bonus: 7.00
+Deduction: 7.00
+-------------------------
+ID: 7
+Name: 7
+Age: 8
+Contact number (+880...): 6
+Email: 6
+Joining date (dd-mm-yyyy): 7
+Position: 7
+Base salary: 6.00
+Attendance (out of 30): 7
+Bonus: 7.00
+Deduction: 8.00
+-------------------------
+ID: 56
+Name: Sharmin
+Age: 22
+Contact number (+880...): 01704763257
+Email: sharmin@gmail.com
+Joining date (dd-mm-yyyy): 22-05-22
+Position: software engineer
+Base salary: 30000.00
+Attendance (out of 30): 23
+Bonus: 25.00
+Deduction: 44.00
+-------------------------
+ID: 34
+Name: sharmin
+Age: 33
+Contact number (+880...): 01704763257
+Email: sharmin@gmail.com
+Joining date (dd-mm-yyyy): 23-05-2025
+Position: software engineer
+Base salary: 20000.00
+Attendance (out of 30): 23
+Bonus: 33.00
+Deduction: 44.00
+-------------------------
+ID: 23
+Name: Sharmin
+Age: 23
+Contact number (+880...): 01704763257
+Email: sharmin@gmail.com
+Joining date (dd-mm-yyyy): 22-04-2026
+Position: software engineer
+Base salary: 30000.00
+Attendance (out of 30): 23
+-------------------------
